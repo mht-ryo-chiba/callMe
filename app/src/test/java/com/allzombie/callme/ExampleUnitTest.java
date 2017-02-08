@@ -1,4 +1,4 @@
-package com.example.r_chiba.callme;
+package com.allzombie.callme;
 
 import org.junit.Test;
 

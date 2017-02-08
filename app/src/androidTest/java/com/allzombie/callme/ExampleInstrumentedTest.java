@@ -1,4 +1,4 @@
-package com.example.r_chiba.callme;
+package com.allzombie.callme;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.r_chiba.callme", appContext.getPackageName());
+        assertEquals("com.allzombie.callme", appContext.getPackageName());
     }
 }
